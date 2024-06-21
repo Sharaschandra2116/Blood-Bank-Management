@@ -21,7 +21,7 @@ Requirements
 Installation
 ------------
 1. Clone the repository:
-   git clone [https://github.com/Sharaschandra2116/Blood-Bank-Management.git]
+   git clone https://github.com/Sharaschandra2116/Blood-Bank-Management
    cd BLOOD_BANK
 
 2. Create a virtual environment:
